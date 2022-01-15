@@ -4,6 +4,11 @@
   box-sizing: border-box;
 }
 
+h1 {
+  margin: 2rem;
+  text-align: center;
+}
+
 body {
   background-color: black;
   color: white;
@@ -11,11 +16,6 @@ body {
   justify-content: center;
   min-height: 100vh;
   padding: 2rem;
-}
-
-h1 {
-  margin: 2rem;
-  text-align: center;
 }
 
 .board {
@@ -32,7 +32,6 @@ h1 {
   background: #272727;
   border: none;
   font-size: 5rem;
-  /* font-weight: 800; */
   cursor: pointer;
   outline: none;
 }
