@@ -10,7 +10,7 @@ Follow the steps to run this React-Tic-Tac-Toe-with-hooks
 
 Enjoy
 
-OR
+Or
 
 Live deploy link: 
 https://dazzling-kowalevski-34bff5.netlify.app/
