@@ -4,7 +4,7 @@ Follow the steps to run this React-Tic-Tac-Toe-with-hooks
 
 1)git clone https://github.com/Yasir1986/React-Tic-Tac-Toe-with-hooks
 
-2)npm install
+2)npm i
 
 3)npm start
 
